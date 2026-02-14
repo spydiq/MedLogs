@@ -1,0 +1,7 @@
+{
+  "name": "MedLog Pro 1.3",
+  "description": "A comprehensive medication tracking and adherence application with a sleek dark interface, scheduling, and history logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
